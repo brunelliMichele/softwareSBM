@@ -1,0 +1,3 @@
+([('SBM',
+   '/Users/michele/Desktop/SBM/software python/dist/SBM',
+   'EXECUTABLE')],)
